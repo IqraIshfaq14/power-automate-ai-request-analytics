@@ -85,16 +85,6 @@ This project converts unstructured email requests into structured operational da
 9. Notify Teams, create Planner tasks, trigger approvals, or escalate depending on the route.
 10. Track SLA, duplicate status, audit history, and final resolution.
 
-## Sample Request
-
-```text
-Request ID: REQ-2026-019
-Customer: Contoso Ltd.
-Priority: High
-Issue: User access to payroll dashboard required urgently.
-Due Date: Friday
-Stakeholders: Finance Department, IT Manager
-
 ## Repository Structure
 
 ```text
@@ -121,13 +111,18 @@ power-automate-ai-request-analytics/
 │   └── dashboard-requirements.md
 │
 └── screenshots/
-    ├── sharepoint-list.png
-    ├── power-automate-flow.png
+    ├── Team assigment sharepoint.png
+    ├── Uniqe-Duplicate request-sharePoint.png
     ├── ai-builder-output.png
-    ├── teams-notification.png
-    ├── planner-task.png
-    └── approval-flow.png
-
+    ├── approval-flow.png
+    ├── connection-sharepoint.png
+    ├── power-automate-flow.png
+    ├── power-automate2.png
+    ├── risk-score.png
+    ├── sharepoint-list.png
+    ├── team-assignment .png
+    └── teams-notification.png
+```
 ## Screenshots
 
 ### Power Automate Flow Overview
@@ -173,4 +168,3 @@ power-automate-ai-request-analytics/
 ### Approval Flow
 
 ![Approval Flow](screenshots/approval-flow.png)
-
