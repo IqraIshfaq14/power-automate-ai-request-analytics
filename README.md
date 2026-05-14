@@ -176,4 +176,5 @@ This project was created as part of my learning journey in workflow automation, 
 Feel free to connect with me:
 
 - LinkedIn: [Iqra Ishfaq](https://www.linkedin.com/in/iqraishfaq/)
-- GitHub: [Iqralshfaq14](https://github.com/Iqralshfaq14)
+- GitHub Repository: [power-automate-ai-request-analytics](https://github.com/IqraIshfaq14/power-automate-ai-request-analytics)
+- GitHub Profile: [IqraIshfaq14](https://github.com/IqraIshfaq14)
