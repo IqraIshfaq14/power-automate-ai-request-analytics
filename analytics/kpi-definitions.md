@@ -26,3 +26,20 @@ This project converts unstructured request emails into structured data that can 
 
 ```text
 Manual Review Requests / Total Requests
+
+
+```text
+SLA Breached Requests / Total Requests
+```
+
+## Duplicate Request Rate
+
+```text
+Duplicate Requests / Total Requests
+```
+
+## Approval Rate
+
+```text
+Approved Requests / Total Approval Requests
+```
