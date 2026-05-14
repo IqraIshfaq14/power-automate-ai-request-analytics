@@ -127,3 +127,50 @@ power-automate-ai-request-analytics/
     ├── teams-notification.png
     ├── planner-task.png
     └── approval-flow.png
+
+## Screenshots
+
+### Power Automate Flow Overview
+
+![Power Automate Flow](screenshots/power-automate-flow.png)
+
+### Power Automate Flow - Additional View
+
+![Power Automate Flow Additional View](screenshots/power-automate2.png)
+
+### SharePoint Request Tracking List
+
+![SharePoint List](screenshots/sharepoint-list.png)
+
+### SharePoint Connection / Tracking View
+
+![SharePoint Connection](screenshots/connection-sharepoint.png)
+
+### Team Assignment in SharePoint
+
+![Team Assignment SharePoint](screenshots/Team%20assigment%20sharepoint.png)
+
+### Unique and Duplicate Request Detection
+
+![Unique Duplicate Request SharePoint](screenshots/Uniqe-Duplicate%20request-sharePoint.png)
+
+### AI Builder Output
+
+![AI Builder Output](screenshots/ai-builder-output.png)
+
+### Risk Score Output
+
+![Risk Score](screenshots/risk-score.png)
+
+### Teams Notification
+
+![Teams Notification](screenshots/teams-notification.png)
+
+### Team Assignment
+
+![Team Assignment](screenshots/team-assignment%20.png)
+
+### Approval Flow
+
+![Approval Flow](screenshots/approval-flow.png)
+
