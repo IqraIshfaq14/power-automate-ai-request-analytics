@@ -60,3 +60,12 @@ Create an automated cloud flow using:
 Office 365 Outlook - When a new email arrives (V3)
 ```
 The flow monitors incoming emails and filters relevant business requests.
+
+## Step 3: Convert Email Body
+
+Use:
+
+```text
+Content Conversion - Html to text
+```
+Store the clean output in a string variable:
