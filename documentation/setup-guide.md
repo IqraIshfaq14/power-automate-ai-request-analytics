@@ -19,6 +19,7 @@ Create a SharePoint list named:
 
 ```text
 AI Request Intake
+```
 ## Recommended Columns
 
 | Column | Type |
