@@ -94,3 +94,36 @@ Priority: High
 Issue: User access to payroll dashboard required urgently.
 Due Date: Friday
 Stakeholders: Finance Department, IT Manager
+
+## Repository Structure
+
+```text
+power-automate-ai-request-analytics/
+│
+├── README.md
+├── architecture/
+│   └── solution-architecture.md
+│
+├── documentation/
+│   ├── project-overview.md
+│   ├── setup-guide.md
+│   ├── business-rules.md
+│   ├── ai-builder-prompt.md
+│   ├── power-automate-expressions.md
+│   ├── testing-scenarios.md
+│   └── lessons-learned.md
+│
+├── sample-data/
+│   └── sample-emails.md
+│
+├── analytics/
+│   ├── kpi-definitions.md
+│   └── dashboard-requirements.md
+│
+└── screenshots/
+    ├── sharepoint-list.png
+    ├── power-automate-flow.png
+    ├── ai-builder-output.png
+    ├── teams-notification.png
+    ├── planner-task.png
+    └── approval-flow.png
