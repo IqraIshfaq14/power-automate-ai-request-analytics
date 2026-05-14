@@ -178,5 +178,5 @@ If you would like to connect or discuss this project, feel free to reach out:
 
 If you would like to connect or discuss this project, feel free to reach out:
 
-- LinkedIn: [[Your LinkedIn Profile](PASTE-YOUR-LINKEDIN-URL-HERE)](https://www.linkedin.com/in/iqraishfaq/)
-- GitHub: [[Your GitHub Profile](PASTE-YOUR-GITHUB-PROFILE-URL-HERE)](https://github.com/IqraIshfaq14)
+- LinkedIn: [(PASTE-YOUR-LINKEDIN-URL-HERE)](https://www.linkedin.com/in/iqraishfaq/)
+- GitHub: [[(PASTE-YOUR-GITHUB-PROFILE-URL-HERE)](https://github.com/IqraIshfaq14)](https://github.com/IqraIshfaq14/power-automate-ai-request-analytics)
