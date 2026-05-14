@@ -171,12 +171,9 @@ power-automate-ai-request-analytics/
 
 ## Contact
 
-If you would like to connect or discuss this project, feel free to reach out:
+This project was created as part of my learning journey in workflow automation, AI Builder, Microsoft 365, and data analytics.
 
-- LinkedIn: [Your LinkedIn Profile](PASTE-YOUR-LINKEDIN-URL-HERE)
-- GitHub: ## Contact
+Feel free to connect with me:
 
-If you would like to connect or discuss this project, feel free to reach out:
-
-- LinkedIn: [(PASTE-YOUR-LINKEDIN-URL-HERE)](https://www.linkedin.com/in/iqraishfaq/)
-- GitHub: [[(PASTE-YOUR-GITHUB-PROFILE-URL-HERE)](https://github.com/IqraIshfaq14)](https://github.com/IqraIshfaq14/power-automate-ai-request-analytics)
+- LinkedIn: [Iqra Ishfaq](https://www.linkedin.com/in/iqraishfaq/)
+- GitHub: [Iqralshfaq14](https://github.com/Iqralshfaq14)
