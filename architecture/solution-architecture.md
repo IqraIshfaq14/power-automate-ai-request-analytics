@@ -28,7 +28,7 @@ SharePoint Tracking List
 Teams / Planner / Approvals / Escalations
      ↓
 Analytics-Ready Dataset
-
+```
 
 # Main Components
 
