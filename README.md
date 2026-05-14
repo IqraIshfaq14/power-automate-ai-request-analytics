@@ -1,6 +1,6 @@
 
 # AI-Powered Request Automation and Analytics System
-
+> An enterprise-style AI-powered workflow automation project that converts unstructured email requests into structured, trackable, and analytics-ready business data.
 ## Project Overview
 
 This project is an enterprise-style request processing system built with Microsoft Power Automate, AI Builder, SharePoint, Microsoft Teams, Planner, Outlook, and Approvals.
