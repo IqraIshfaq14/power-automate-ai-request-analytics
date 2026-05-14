@@ -58,3 +58,5 @@ Create an automated cloud flow using:
 
 ```text
 Office 365 Outlook - When a new email arrives (V3)
+
+The flow monitors incoming emails and filters relevant business requests.
