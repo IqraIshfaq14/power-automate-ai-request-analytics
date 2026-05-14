@@ -15,6 +15,7 @@ Priority: Low
 Issue: Please add the finance dashboard shortcut to the user portal when possible.
 Due Date: Next month
 Stakeholders: Finance Team
+```
 
 ## Expected Result
 
