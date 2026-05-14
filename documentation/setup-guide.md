@@ -73,3 +73,69 @@ Store the clean output in a string variable:
 ```text
 varCleanBody
 ```
+
+## Step 4: Extract Request Fields
+
+Use Power Automate expressions to extract the following fields:
+
+| Field | Description |
+|---|---|
+| Request ID | Unique request identifier |
+| Customer | Customer or department name |
+| Priority | Low, Medium, High, Critical, or Unknown |
+| Description | Main issue or request details |
+| Stakeholders | People or teams involved |
+
+## Step 5: Add AI Builder
+
+Use AI Builder to classify, summarize, and score the incoming request.
+
+| AI Output | Purpose |
+|---|---|
+| Request Type | Classifies the request as Access Request, Incident, Service Request, Escalation, or Unknown |
+| Summary | Creates a short summary of the request |
+| Priority Recommendation | Suggests Low, Medium, High, Critical, or Unknown |
+| Sentiment | Detects tone such as Neutral, Urgent, Frustrated, or Unknown |
+| Risk Score | Scores business risk from 0 to 100 |
+| Confidence Score | Scores AI confidence from 0 to 100 |
+| Detected Language | Identifies the language of the email |
+
+## Step 6: Apply Business Rules
+
+Use conditions and switch controls to route requests based on priority, AI confidence, request type, and business rules.
+
+| Route Decision | Action |
+|---|---|
+| Backlog Queue | Teams notification |
+| Team Assignment | Planner task |
+| Approval Required | Approval process |
+| Immediate Escalation | Urgent Teams alert |
+| Manual Review | Manual review queue |
+
+## Step 7: Store and Track Results
+
+Create or update SharePoint items with parsed values, AI results, route decision, SLA due date, approval outcome, audit log, and final status.
+
+Tracked values include:
+
+- Parsed request fields
+- AI classification results
+- Route decision
+- SLA due date
+- Approval outcome
+- Escalation level
+- Duplicate status
+- Audit log
+- Final resolution state
+
+## Step 8: Advanced Features
+
+Optional enterprise enhancements include:
+
+- Duplicate request detection
+- Auto-response email
+- Multi-language support
+- SLA monitoring flow
+- AI feedback loop
+- Security-based approvals
+- Scope-based error handling
