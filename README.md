@@ -168,3 +168,15 @@ power-automate-ai-request-analytics/
 ### Approval Flow
 
 ![Approval Flow](screenshots/approval-flow.png)
+
+## Contact
+
+If you would like to connect or discuss this project, feel free to reach out:
+
+- LinkedIn: [Your LinkedIn Profile](PASTE-YOUR-LINKEDIN-URL-HERE)
+- GitHub: ## Contact
+
+If you would like to connect or discuss this project, feel free to reach out:
+
+- LinkedIn: [[Your LinkedIn Profile](PASTE-YOUR-LINKEDIN-URL-HERE)](https://www.linkedin.com/in/iqraishfaq/)
+- GitHub: [[Your GitHub Profile](PASTE-YOUR-GITHUB-PROFILE-URL-HERE)](https://github.com/IqraIshfaq14)
