@@ -69,3 +69,4 @@ Use:
 Content Conversion - Html to text
 ```
 Store the clean output in a string variable:
+**varCleanBody**
