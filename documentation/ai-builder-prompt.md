@@ -1,4 +1,4 @@
-## 🤖 AI Builder Prompt
+##  AI Builder Prompt
 
 ### Purpose
 
